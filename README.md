@@ -37,9 +37,9 @@ I am a Junior Web Developer with a strong foundation in Full-Stack development, 
 ## 🚀 Featured Projects
  
 ### 🎮 Gamify
-* **Role:** Co-Project Leader
+* **Role:** Project Leader
 * **Tech:** React, JSX, Custom CSS, Bootstrap, Express.js, MySQL
-* **Description:** A modern e-commerce platform for digital video game license keys. Focused heavily on a seamless UI/UX, responsive layout, and brand consistency. As a Co-Project Leader, I coordinated task planning and oversaw development milestones.
+* **Description:** A modern e-commerce platform for digital video game license keys. Focused heavily on a seamless UI/UX, responsive layout, and brand consistency. As Project Leader, I coordinated task planning and oversaw development milestones.
  
 ### 🌐 Freelance Web Projects
 * **Tech:** HTML5, CSS3, JavaScript, SEO best practices
