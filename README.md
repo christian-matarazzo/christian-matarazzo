@@ -1,6 +1,6 @@
 # Hi there, I'm Christian! 👋
  
-I am a Junior Web Developer with a strong foundation in Full-Stack development, a keen eye for design. After years of experience in consulting and customer support, I decided to combine my passion for technology with my customer service background to deliver tailored, bespoke solutions that address real-world challenges.
+I am a Web Developer with a strong foundation in Full-Stack development, a keen eye for design. After years of experience in consulting and customer support, I decided to combine my passion for technology with my customer service background to deliver tailored, bespoke solutions that address real-world challenges.
  
 📍 Based in Avellino, Italy<br>
 💼 Open to Junior Web Developer roles & collaborations<br>
